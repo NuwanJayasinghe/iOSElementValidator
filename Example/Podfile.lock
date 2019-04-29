@@ -1,0 +1,16 @@
+PODS:
+  - iOSElementValidator (0.1.0)
+
+DEPENDENCIES:
+  - iOSElementValidator (from `../`)
+
+EXTERNAL SOURCES:
+  iOSElementValidator:
+    :path: ../
+
+SPEC CHECKSUMS:
+  iOSElementValidator: c9f5eb4442b04e38b62d84bd70563213c1169507
+
+PODFILE CHECKSUM: a25dee845e03e4c95e5f7123dec7346cbeaafe61
+
+COCOAPODS: 1.4.0

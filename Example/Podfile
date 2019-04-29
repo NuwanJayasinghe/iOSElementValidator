@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'iOSElementValidator_Example' do
+  pod 'iOSElementValidator', :path => '../'
+
+  target 'iOSElementValidator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
